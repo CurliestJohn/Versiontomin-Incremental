@@ -4,8 +4,7 @@
 Buy different upgrades, automate things and get enough things to advance the Versiontomin value. See how far and complex this notation gets as it advances over time. Will you make it to the end of this notation?
 
 # Current endgame:
-Versiontomin value (main aspect): To be determined.
-Secondary aspects: To be determined.
+Versiontomin value (main aspect): To be determined // Secondary aspects: To be determined.
 
 # Current version:
 Pre-Indev v0.0.0.0 • Build 0 // Released on May 31st, 2025
