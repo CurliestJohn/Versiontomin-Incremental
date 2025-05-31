@@ -7,7 +7,7 @@ Buy different upgrades, automate things and get enough things to advance the Ver
 Versiontomin value (main aspect): To be determined // Secondary aspects: To be determined.
 
 # Current version:
-Pre-Indev v0.0.0.0 • Build 0 // Released on May 31st, 2025
+Pre-Indev v0.0.0.0 • Build -1 // Released on May 31st, 2025
 
 # Version guide:
 - Versions: Grand changes (notably the shift from one Versiontomin regiment to another)
