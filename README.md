@@ -1,7 +1,7 @@
 # Versiontomin Incremental
 
 # About
-Buy different upgrades, automate things and get enough things to advance the Versiontomin value. See how far and complex this notation gets as it advances over time. Will you make it to the end of this notation?
+Buy different upgrades, automate things and get enough things to advance the Versiontomin value, and see how far and complex this notation gets as it advances over time. Will you make it to the end of this notation?
 
 # Current endgame:
 Versiontomin value (main aspect): To be determined // Secondary aspects: To be determined.
