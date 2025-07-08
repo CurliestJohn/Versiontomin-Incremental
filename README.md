@@ -7,7 +7,7 @@ Buy different upgrades, automate things and get enough things to advance the Ver
 Versiontomin value (main aspect): 𝖁⦃-???⦄ // Secondary aspects: To be determined.
 
 # Current version:
-Indev v0.0.0.0 • Build 3 // Released on June 20th, 2025
+Indev v0.0.0.0 • Build 5 // Released on July 8th, 2025
 
 # Version guide:
 - Versions: Grand changes (notably the shift from one Versiontomin regiment to another)
@@ -17,8 +17,7 @@ Indev v0.0.0.0 • Build 3 // Released on June 20th, 2025
 - Builds: Development in Pre-Version 1; mostly bug fixes in later versions.
 
 # What's new in this version:
-- Changed background color to black
-- Changed text color to white
+- Changed text font to Fira Sans
 
 # Credits:
 HNA (for the Versiontomin notation)
